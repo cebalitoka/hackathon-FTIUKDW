@@ -1,0 +1,254 @@
+html,body{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font: 76% arial,sans-serif;
+	text-align:left;
+}
+
+p{
+	margin:0 10px 10px
+}
+
+a{
+	display:block;
+	color: #981793;
+	padding:10px;
+	text-decoration: none;
+}
+
+#header-wrapper{
+	height:180px;
+	background-color: #EEE;
+  	color: #79B30B;
+ }
+
+ #header-wrapper-navigasi-atas{
+ 	height:30px;
+	width:1100px;
+	margin:0 auto;
+	padding:0;
+	border:1px solid grey;
+ }
+
+#header-navigasi-atas{
+	background-color:#6D79DE;
+	height:30px;
+	margin:0;
+}
+
+#header-navigasi-atas ul{
+	margin:0;
+}
+
+#header-navigasi-atas li{
+	display:inline;
+	float:left;
+	margin:0px 10px 0px 10px;
+	color:white;
+	font-family: tahoma;
+	font-size: 20px;
+}
+
+#akun-input{
+	background-color: grey;
+	margin:0 0 0 0;
+	float:right;
+	display:inline;
+	width:420px;
+	height:30px;
+}
+
+#daftar{
+	background-color: #C90E0E;
+	padding: 0;
+	height: 15px;
+	width: 80px;
+}
+
+#daftar a{
+	color:white;
+	font-family: tahoma;
+	font-size: 15px;
+	text-decoration: none;
+	margin:0;
+}
+
+#akun-input input{
+	float:right;
+	margin: 3px 5px 3px 5px;
+}
+
+#menu-navigasi-atas{
+
+}
+
+#header-konten{
+	height:110px;
+	width:1100px;
+	margin:0 auto;
+	padding:0;
+	background-color: #F8D9F9;
+}
+
+#header-konten input{
+	margin:30px 0px 0px 0px;	
+	float:left;
+	width:300px;
+	height:30px;
+	font-family:tahoma;
+	font-size:20px;
+	color:#DDDDDD;
+}
+
+#header-konten img{
+	margin:30px 0px 0px 0px;
+	height:35px;
+	width:35px;
+	display:inline;
+	position: absolute;
+}
+
+#header-konten-logo{
+	height:80px;
+	width:250px;
+	float:left;
+	margin:10px 20px 10px 20px;
+	background-color: #F1EF8B;
+}
+
+#header-navigasi-icon-wrapper{
+	height:80px;
+	width:318px;
+	float:right;
+	border:1px solid grey;
+	display:block;
+	margin:15px 20px 10px 20px;
+}
+
+#icon{
+	height:80px;
+	width:100px;
+	margin:0px 2px 0px 2px;
+	border:1px solid grey;
+	float:left;
+	display:block;
+}
+
+#header-navigasi-bawah{
+	background-color:#6D79DE;
+	height:40px;
+}
+
+#header-wrapper-navigasi-bawah{
+	height:40px;
+	width:1100px;
+	margin:0 auto;
+	padding:0;
+	border:1px solid grey;
+}
+
+#header-navigasi-bawah ul{
+	margin:5px 0 0 300px;
+}
+
+#header-navigasi-bawah li{
+	display:inline;
+	float:left;
+	margin:0px 10px 0px 10px;
+	color:white;
+	font-family: tahoma;
+	font-size: 20px;
+}
+
+#container{
+	text-align:left;
+	background-color:#D5F3CF ;
+	width:1100px;
+	min-height:500px;
+	margin:0 auto;
+}
+
+#slideshow p{
+	line-height:1.4;
+}
+
+#slideshow{
+	margin:0 auto;
+	width:1080px;
+	min-height: 300px;
+	background-color:#FED6D6;
+}
+
+#tiga-serangkai-container-judul{
+	margin: 0 auto;
+	width:170px;
+	height: 30px;
+	background-color:#84B751;
+	margin-top: 50px;
+
+}
+
+#tiga-serangkai-container{
+	float:right;
+	width:1100px;
+	min-height: 300px;
+	background-color:#FED6D6;
+	margin: 0px 0px 0px 0px;
+}
+
+#jdl-tiga-serangkai{
+	font-family: tahoma;
+	font-size: 20px;
+	color:white;
+}
+
+#tiga-serangkai-1{
+	float:left;
+	width:545px;
+	height:298px;
+	display:inline;
+	position:relative;
+	margin: 0 2px 0 0;
+	border:1px solid grey;
+}
+
+#tiga-serangkai-2{
+	float:left;
+	width:545px;
+	height:145px;
+	background-color: white;
+	display:inline;
+	position: relative;
+	margin:0 0 5px 2px;
+	border:1px solid grey;
+}
+
+#tiga-serangkai-3{
+	float:left;
+	width:545px;
+	height:145px;
+	background-color: white;
+	display:inline;
+	position: relative;
+	margin:5px 0 0 2px;
+	border:1px solid grey;
+}
+
+#footer p{
+	margin:0;
+	padding:5px 10px
+}
+
+#footer{
+	clear:both;
+	width:100%;
+	background: #333;
+	color: #FFF;
+	min-height:200px;
+}
+
+
+
